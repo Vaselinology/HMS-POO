@@ -62,7 +62,7 @@
    javac hms/WelcomeScreen.java
    java hms.WelcomeScreen
    ```
-##⚙️ Configuration
+## ⚙️ Configuration
 
 Edit src/hms/DatabaseConnection.java:
    ```
@@ -73,15 +73,15 @@ Edit src/hms/DatabaseConnection.java:
     // ...
 }
    ```
-##🖥️ Usage
+## 🖥️ Usage
 
-###Admin Login
+### Admin Login
 ```
 Launch application
 Login with admin credentials (default: admin/admin123)
 Access all management modules via dashboard
 ```
-###User Flow
+### User Flow
 ```
 Register new account/log in
 Browse available options
