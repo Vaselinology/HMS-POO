@@ -23,7 +23,6 @@
 ### User Modules
 - Room browsing and booking
 - Booking history view
-- Profile management
 
 ### Core Functionality
 - Secure authentication
@@ -154,6 +153,6 @@ View booking history
 ```
 ##🛑 Known Issues
 
-Password storage is not encrypted
-Limited input validation on some forms
-No backup/restore functionality
+- Password storage is not encrypted
+- Limited input validation on some forms
+- No backup/restore functionality
