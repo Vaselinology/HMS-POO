@@ -151,7 +151,7 @@ View booking history
       ├───DB-Diagram.svg
       └───HMS-DB.sql
 ```
-##🛑 Known Issues
+## 🛑 Known Issues
 
 - Password storage is not encrypted
 - Limited input validation on some forms
